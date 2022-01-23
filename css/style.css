@@ -1,0 +1,31 @@
+.head{
+	height: 60px;
+	background-color: tomato;
+}
+.wrapper{
+	height: 400px;
+	overflow: hidden;
+}
+.aside{
+	min-height: 400px;
+	width: 30%;
+	float: left;
+	background-color: red;
+}
+.container{
+	min-height: 200px;
+	width: 70%;
+	float: left;
+}
+.box-yellow{
+	min-height: 200px;
+	background-color: yellow;
+}
+.box-green{
+	min-height: 200px;
+	background-color: green;
+}
+.foot{
+	background-color: black;
+	height: 100px;
+}
